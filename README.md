@@ -234,6 +234,6 @@ This project was originally developed as part of a university consulting and ana
 
 # Author
 
-Faiz Nizamuddin Karol
+Mohd Zaeem Mohd Kamran Khan
 
-LinkedIn: https://linkedin.com/in/faiz-karol
+LinkedIn: https://www.linkedin.com/in/khan-zaeem/
